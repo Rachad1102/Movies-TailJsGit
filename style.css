@@ -1,0 +1,26 @@
+.bg-col{
+   background-color: #e81856; 
+}
+.text-col{
+    color: #e81856;
+}
+/* <uniquifier>: Use a unique and descriptive class name
+ <weight>: Use a value from 100 to 900*/
+
+.lexend {
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.screen{
+    background-image: url(img/Ban_FightClub.jpg);
+    background-size: cover;
+    background-position: center top;
+    background-repeat: none;
+}
+.cover{
+    background-image: url(img/her.jpg);
+    background-size: cover;
+    /*background-position: center center;*/
+    background-repeat: no-repeat;
+}
