@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "title": "Argylle",
+        "duration": "2h 19m",
+        "year": "2024",
+        "type": "Action",
+        "category": "Recommended",
+        "picture": "img/argylle.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Dumb and Dumber",
+        "duration": "1h 53m",
+        "year": "1994",
+        "type": "Comedie",
+        "category": "Recommended",
+        "picture": "img/dumb_and_dumber.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Fight Club",
+        "duration": "2h 19m",
+        "year": "1999",
+        "type": "Thriller",
+        "category": "Recommended",
+        "picture": "img/Fightclub.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Her",
+        "duration": "2h 6m",
+        "year": "2013",
+        "type": "Romance",
+        "category": "Recommended",
+        "picture": "img/her.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Oldboy",
+        "duration": "2h",
+        "year": "2003",
+        "type": "Thriller",
+        "category": "Recommended",
+        "picture": "img/oldboy.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Oppenheimer",
+        "duration": "3h",
+        "year": "2023",
+        "type": "Thriller",
+        "category": "Recommended",
+        "picture": "img/oppenheimer.jpg "
+    },
+    {
+        "id": 7,
+        "title": "Seven",
+        "duration": "",
+        "year": "",
+        "type": "Thriller",
+        "category": "Popular",
+        "picture": "img/seven.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Shrek",
+        "duration": "",
+        "year": "",
+        "type": "Animation",
+        "category": "Popular",
+        "picture": "img/shrek.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Tenet",
+        "duration": "",
+        "year": "",
+        "type": "Action",
+        "category": "Popular",
+        "picture": "img/tenet.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Thanksgiving",
+        "duration": "",
+        "year": "",
+        "type": "Thriller",
+        "category": "Popular",
+        "picture": "img/thanksgiving.jpg"
+    },
+    {
+        "id": 11,
+        "title": "The Flash",
+        "duration": "",
+        "year": "",
+        "type": "Action",
+        "category": "Popular",
+        "picture": "img/the_flash.jpg"
+    },
+    {
+        "id": 12,
+        "title": "W.M.C.J",
+        "duration": "",
+        "year": "",
+        "type": "Comedie",
+        "category": "Popular",
+        "picture": "img/white_men_can't_jump.jpg"
+    }
+]
