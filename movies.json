@@ -56,8 +56,8 @@
     {
         "id": 7,
         "title": "Seven",
-        "duration": "",
-        "year": "",
+        "duration": "2h 7m",
+        "year": "1995",
         "type": "Thriller",
         "category": "Popular",
         "picture": "img/seven.jpg"
@@ -65,8 +65,8 @@
     {
         "id": 8,
         "title": "Shrek",
-        "duration": "",
-        "year": "",
+        "duration": "1h 30m",
+        "year": "2001",
         "type": "Animation",
         "category": "Popular",
         "picture": "img/shrek.jpg"
@@ -74,8 +74,8 @@
     {
         "id": 9,
         "title": "Tenet",
-        "duration": "",
-        "year": "",
+        "duration": "2h 30m",
+        "year": "2020",
         "type": "Action",
         "category": "Popular",
         "picture": "img/tenet.jpg"
@@ -83,8 +83,8 @@
     {
         "id": 10,
         "title": "Thanksgiving",
-        "duration": "",
-        "year": "",
+        "duration": "1h 47m",
+        "year": "2023",
         "type": "Thriller",
         "category": "Popular",
         "picture": "img/thanksgiving.jpg"
@@ -92,8 +92,8 @@
     {
         "id": 11,
         "title": "The Flash",
-        "duration": "",
-        "year": "",
+        "duration": "2h 24m",
+        "year": "2023",
         "type": "Action",
         "category": "Popular",
         "picture": "img/the_flash.jpg"
@@ -101,8 +101,8 @@
     {
         "id": 12,
         "title": "W.M.C.J",
-        "duration": "",
-        "year": "",
+        "duration": "1h 41m",
+        "year": "2023",
         "type": "Comedie",
         "category": "Popular",
         "picture": "img/white_men_can't_jump.jpg"
