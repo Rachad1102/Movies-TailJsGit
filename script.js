@@ -20,7 +20,7 @@ const listContent = document.getElementById('listContent');
 const listElement = document.querySelectorAll('#listContent > div')
 
 let moviesList = document.createElement("div");
-moviesList.className = "grid grid-cols-6 gap-4";
+moviesList.className = "grid grid-cols-2 lg:grid-cols-5 xl:grid-cols-6 gap-4 sm:grid-cols-3 md:grid-cols-4";
 
 function showMovies(moviesId){
   for (let i = 0; i < movies.length; i++) {
@@ -86,14 +86,29 @@ recomContent.appendChild(moviesList);
 
 
 let moviesListP = document.createElement("div");
-moviesListP.className = "grid grid-cols-6 gap-4";
+moviesListP.className = "grid grid-cols-2 lg:grid-cols-5 xl:grid-cols-6 gap-4 sm:grid-cols-3 md:grid-cols-4";
 showMoviesP('Popular');
 popContent.appendChild(moviesListP);
 
-/*function contMovies(content, moviesId){
-  showMovies(moviesId);
-content.appendChild(moviesList);
- }*/
+//Fonction pour générer le menu en responsive 
+//Créer comment ça peut se présenter en responsive
 
-// contMovies(recomContent, 'Recommended');
-// contMovies(popContent, 'Popular');
+const btnClose = document.getElementById('close_menu_btn');
+const menuResp = document.getElementById('menu_responsive');
+const hamb = document.getElementById('hamburger');
+hamb.addEventListener('click', ()=> {
+  if(menuResp.classList.contains('translate-x-full')){
+    menuResp.classList.remove('translate-x-full');
+    menuResp.classList.add('translate-x-0');
+    
+  } 
+});
+
+btnClose.addEventListener('click', ()=>{
+  if(menuResp.classList.contains('translate-x-0')){
+    menuResp.classList.remove('translate-x-0');
+    menuResp.classList.add('translate-x-full')
+  }
+});
+
+
